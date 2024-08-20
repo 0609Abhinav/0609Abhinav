@@ -13,7 +13,6 @@ I'm a passionate Frontend and Full Stack Developer with expertise in creating st
 - 🌱 I’m currently learning **MERN Stack** and **AWS**
 - 💬 Ask me about **React, Node.js, MongoDB, Python (Django), MySQL, and Tailwind CSS**
 - 📫 How to reach me: [abhinavtripathi6sep@gmail.com](mailto:abhinavtripathi6sep@gmail.com)
-- 📝 I regularly write articles on [your blog](https://yourblog.com)
 - ⚡ Fun fact: I enjoy [a fun fact about you, e.g., "playing chess" or "hiking in the mountains"]
 
 ---
@@ -48,8 +47,6 @@ I'm a passionate Frontend and Full Stack Developer with expertise in creating st
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -79,8 +76,8 @@ I'm a passionate Frontend and Full Stack Developer with expertise in creating st
 
 ## 🌟 My Projects
 
-### 🚀 [Crypto Tracker](https://github.com/0609Abhinav/crypto-tracker)
-A web application that tracks cryptocurrency prices in real-time with beautiful visualizations and alerts. Built using **C, Python, JavaScript, MySQL, and PHP**.
+### 🚀 [Crypto Tracker](https://github.com/0609Abhinav/Crypto-Tracker)
+A web application that tracks cryptocurrency prices in real-time with beautiful visualizations and alerts. Built using **MERN StackP**.
 
 ### 🎓 [College Website](https://github.com/0609Abhinav/college-website)
 A fully responsive and dynamic website for educational institutions, featuring student portals, course listings, and more.
