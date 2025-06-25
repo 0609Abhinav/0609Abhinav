@@ -3,7 +3,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/0609Abhinav?label=Follow%20Me&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/0609Abhinav?label=My%20Stars&style=social)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=0609Abhinav.0609Abhinav)
-![Commits](https://img.shields.io/badge/Commits-25%2B-orange)
 
 ---
 
@@ -14,7 +13,7 @@ I'm a passionate Frontend and Full Stack Developer with expertise in creating st
 - 🌱 I’m currently learning **MERN Stack** and **AWS**
 - 💬 Ask me about **React, Node.js, MongoDB, Python (Django), MySQL, and Tailwind CSS**
 - 📫 How to reach me: [abhinavtripathi6sep@gmail.com](mailto:abhinavtripathi6sep@gmail.com)
-- ⚡ Fun fact: I solve Rubik's Cubes under 30 seconds and build full-stack projects for fun!
+- ⚡ Fun fact: I enjoy playing chess and building side projects late at night
 
 ---
 
@@ -60,14 +59,7 @@ I'm a passionate Frontend and Full Stack Developer with expertise in creating st
 ![Abhinav Tripathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=0609Abhinav&show_icons=true&theme=radical&count_private=true&hide=contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0609Abhinav&layout=compact&theme=radical&langs_count=6)](https://github.com/0609Abhinav/github-readme-stats)
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+> 📈 **50+ Total Commits** | 🔁 **25+ Commits in 2025**
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0609Abhinav&theme=radical)
 
@@ -77,28 +69,28 @@ I'm a passionate Frontend and Full Stack Developer with expertise in creating st
 
 ## 🌟 My Projects
 
-### 🚀 [Crypto Tracker](https://github.com/0609Abhinav/Crypto-Tracker)
-A real-time cryptocurrency price tracking app with elegant charts and alerts. Built using **MERN Stack**.
+### 🚀 [Crypto Tracker](https://github.com/0609Abhinav/Crypto-Tracker)  
+A real-time cryptocurrency price tracking app with elegant charts and alerts. Built using MERN Stack.
 
-### 🎓 [College Website](https://github.com/0609Abhinav/college-website)
+### 🎓 [College Website](https://github.com/0609Abhinav/college-website)  
 Fully responsive, dynamic website for educational institutions with student portals and course management.
 
-### 📚 [Online Book Store](https://github.com/0609Abhinav/online-book-store)
+### 📚 [Online Book Store](https://github.com/0609Abhinav/online-book-store)  
 An e-commerce platform for books with secure payment integration and user authentication.
 
-### 📰 [Sarkari Result Landing Page](https://github.com/0609Abhinav/sarkari-result)
+### 📰 [Sarkari Result Landing Page](https://github.com/0609Abhinav/sarkari-result)  
 Static landing page that provides quick access to government job listings and results.
 
-### 🧠 [Smart-Ex](https://github.com/0609Abhinav/Smart-Ex)
-AI-based proctored examination system using the **MERN stack**, **Python**, and **Machine Learning** tools.
+### 🧠 [Smart-Ex](https://github.com/0609Abhinav/Smart-Ex)  
+AI-based proctored examination system using the MERN stack, Python, and Machine Learning tools.
 
-### 🧩 [Rubik’s Cube Visualizer](https://github.com/0609Abhinav/Rubik-s-Cube)
+### 🧩 [Rubik’s Cube Visualizer](https://github.com/0609Abhinav/rubiks-cube-visualizer)  
 Interactive 3D Rubik's Cube built using HTML, CSS, and JavaScript with the `getCubesvg()` method.
 
-### 🌐 [Spandan Website](https://github.com/0609Abhinav/spandan-website)
+### 🌐 [Spandan Website](https://github.com/0609Abhinav/Spandan)  
 A beautifully designed website for events or college fests using modern web technologies.
 
-### 🗂 [STFMS (Student/Teacher Faculty Management System)](https://github.com/0609Abhinav/stfms)
+### 🗂 [STFMS (Student/Teacher Faculty Management System)](https://github.com/0609Abhinav/STFMS)  
 A PHP-based management system with database integration for seamless academic record keeping.
 
 ---
@@ -109,10 +101,6 @@ A PHP-based management system with database integration for seamless academic re
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-tripathi-770224253/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_abhinavtripathi/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://portfolio-kappa-six-18.vercel.app/)
 
 </div>
-
----
-
-*Made with ❤️ by Abhinav Tripathi*
