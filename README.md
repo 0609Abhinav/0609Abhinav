@@ -57,7 +57,7 @@ I'm a passionate **Frontend and Full Stack Developer** focused on building dynam
 ![Abhinav Tripathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=0609Abhinav&show_icons=true&theme=radical&count_private=true&hide=contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0609Abhinav&layout=compact&theme=radical&langs_count=6)](https://github.com/0609Abhinav/github-readme-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0609Abhinav&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=0609Abhinav&theme=radical)
 
 </div>
 
