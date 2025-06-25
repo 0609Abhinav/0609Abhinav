@@ -3,6 +3,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/0609Abhinav?label=Follow%20Me&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/0609Abhinav?label=My%20Stars&style=social)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=0609Abhinav.0609Abhinav)
+![Commits](https://img.shields.io/badge/Commits-50+%2B-orange)
+
 
 ---
 
@@ -104,3 +106,7 @@ A PHP-based management system with database integration for seamless academic re
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://portfolio-kappa-six-18.vercel.app/)
 
 </div>
+
+---
+
+*Made with ❤️ by Abhinav Tripathi*
