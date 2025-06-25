@@ -63,7 +63,8 @@ I'm a passionate Frontend and Full Stack Developer with expertise in creating st
 
 > 📈 **50+ Total Commits** | 🔁 **25+ Commits in 2025**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0609Abhinav&theme=radical)
+![GitHub commit streak](https://img.shields.io/badge/GitHub%20Streak-Tracking%20Daily%20Commits-orange?logo=github&style=for-the-badge)
+
 
 </div>
 
