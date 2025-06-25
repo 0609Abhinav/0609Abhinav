@@ -54,7 +54,8 @@ I'm a passionate Frontend and Full Stack Developer focused on building dynamic, 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0609Abhinav&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=0609Abhinav&theme=radical)
+![GitHub commit streak](https://img.shields.io/badge/GitHub%20Streak-Tracking%20Daily%20Commits-orange?logo=github&style=for-the-badge)
+
 
 </div>
 
