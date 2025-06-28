@@ -61,7 +61,7 @@ I'm a passionate Frontend and Full Stack Developer with expertise in creating st
 ![Abhinav Tripathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=0609Abhinav&show_icons=true&theme=radical&count_private=true&hide=contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0609Abhinav&layout=compact&theme=radical&langs_count=6)](https://github.com/0609Abhinav/github-readme-stats)
 
-> 📈 **50+ Total Commits** | 🔁 **25+ Commits in 2025**
+> 📈 **32+ Total Commits** | 🔁 **25+ Commits in 2025**
 
 ![GitHub commit streak](https://img.shields.io/badge/GitHub%20Streak-Tracking%20Daily%20Commits-orange?logo=github&style=for-the-badge)
 
