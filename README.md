@@ -120,34 +120,33 @@ I'm **Abhinav Tripathi**, a Frontend and Full Stack Developer specializing in th
 ## 📂 All Repositories
 
 <!-- PROJECTS-START -->
-> Live data pulled from the GitHub API on Jul 11, 2026. This table refreshes automatically every week (and on every push) via [`.github/workflows/update-readme.yml`](.github/workflows/update-readme.yml) — new repos appear here with no manual editing.
+> Auto-generated on 2026-07-10 — 22 public repositories.
 
-| Repository | Description | Language | ⭐ Stars | Last Updated |
+| Repository | Description | Language | ⭐ Stars | Updated |
 |---|---|---|---|---|
-| [Online-Book-Store](https://github.com/0609Abhinav/Online-Book-Store) | E-commerce book store built with Django | CSS | 2 | Jul 10, 2026 |
-| [Rubik-s-Cube](https://github.com/0609Abhinav/Rubik-s-Cube) | Interactive 3D Rubik's Cube using `getCubesvg()` | JavaScript | 2 | Jul 10, 2026 |
-| [AI-Satellite-Image-Analysis-Prototype](https://github.com/0609Abhinav/AI-Satellite-Image-Analysis-Prototype) | AI-powered satellite/aerial image analysis — detects buildings, roads, vegetation & land-use, compares imagery across years | TypeScript | 1 | Jul 10, 2026 |
+| [Online-Book-Store](https://github.com/0609Abhinav/Online-Book-Store) | This webiste is made from python using Django Framework | CSS | 2 | Jul 10, 2026 |
+| [Rubik-s-Cube](https://github.com/0609Abhinav/Rubik-s-Cube) | Simple Rubik's Cube Application using Html,Css and Javascript using getCubesvg() method | JavaScript | 2 | Jul 10, 2026 |
+| [AI-Satellite-Image-Analysis-Prototype](https://github.com/0609Abhinav/AI-Satellite-Image-Analysis-Prototype) | AI-powered satellite and aerial image analysis prototype that detects buildings, roads, parking lots, vegetation, water, and land-use features using open-source computer vision models. Compares images from different years to identify changes, generates AI-based summaries, and provides a foundation for a future scalable SaaS platform. | TypeScript | 1 | Jul 10, 2026 |
 | [Pixelith](https://github.com/0609Abhinav/Pixelith) | — | TypeScript | 2 | Jul 9, 2026 |
-| [Portfolio](https://github.com/0609Abhinav/Portfolio) | My personal developer portfolio | JavaScript | 2 | Jun 24, 2026 |
-| [Crypto-Tracker](https://github.com/0609Abhinav/Crypto-Tracker) | Real-time cryptocurrency price tracker | JavaScript | 2 | Jun 19, 2026 |
-| [spandan-website](https://github.com/0609Abhinav/spandan-website) | College fest / event website | JavaScript | 2 | Apr 11, 2026 |
-| [dynamic_dashboard_ang](https://github.com/0609Abhinav/dynamic_dashboard_ang) | Dynamic dashboard built with Angular | — | 1 | Nov 4, 2025 |
-| [Basic-Angular-App](https://github.com/0609Abhinav/Basic-Angular-App) | Basic Angular app with core modules & functionality | TypeScript | 1 | Oct 29, 2025 |
-| [Webapp](https://github.com/0609Abhinav/Webapp) | Full CRUD app with login, register, forgot password & pagination (MySQL + Sequelize) | JavaScript | 0 | Oct 24, 2025 |
-| [Task-Managment-ToDo-App-](https://github.com/0609Abhinav/Task-Managment-ToDo-App-) | Task management to-do app | JavaScript | 1 | Oct 16, 2025 |
-| [student-info-dashboard](https://github.com/0609Abhinav/student-info-dashboard) | Student information dashboard | JavaScript | 0 | Oct 15, 2025 |
-| [CRUD-APP](https://github.com/0609Abhinav/CRUD-APP) | Basic CRUD app using Sequelize, MySQL, Node.js & Express | JavaScript | 0 | Oct 6, 2025 |
-| [FocusFlow_SmartTodo](https://github.com/0609Abhinav/FocusFlow_SmartTodo) | AI-powered smart to-do list with context-aware suggestions & deadline recommendations | Python | 0 | Aug 15, 2025 |
-| [Frontend_Project](https://github.com/0609Abhinav/Frontend_Project) | Frontend practice project | HTML | 0 | Aug 10, 2025 |
-| [Photographer-master](https://github.com/0609Abhinav/Photographer-master) | Photographer portfolio template | JavaScript | 0 | Jul 19, 2025 |
-| [Hybrid_CNN_PCA_Full_Package](https://github.com/0609Abhinav/Hybrid_CNN_PCA_Full_Package) | Hybrid CNN + PCA machine learning package | Python | 0 | Jul 14, 2025 |
-| [webhook-repo](https://github.com/0609Abhinav/webhook-repo) | Webhook receiver/processor | Python | 0 | Jul 14, 2025 |
-| [action-repo](https://github.com/0609Abhinav/action-repo) | Repository used to trigger GitHub events | — | 0 | Jul 14, 2025 |
-| [Smart-Ex](https://github.com/0609Abhinav/Smart-Ex) | AI-based proctored examination system using MERN + Python + ML | Python | 3 | Jun 23, 2025 |
-| [stfms](https://github.com/0609Abhinav/stfms) | Student/Teacher Faculty Management System | PHP | 1 | Apr 14, 2025 |
-| [College_Website](https://github.com/0609Abhinav/College_Website) | Institutional website built with Django | HTML | 2 | Aug 20, 2024 |
+| [Portfolio](https://github.com/0609Abhinav/Portfolio) | About Myself | JavaScript | 2 | Jun 24, 2026 |
+| [Crypto-Tracker](https://github.com/0609Abhinav/Crypto-Tracker) | Crypto Currency Tracking Website  | JavaScript | 2 | Jun 19, 2026 |
+| [spandan-website](https://github.com/0609Abhinav/spandan-website) | — | JavaScript | 2 | Apr 11, 2026 |
+| [dynamic_dashboard_ang](https://github.com/0609Abhinav/dynamic_dashboard_ang) | — | — | 1 | Nov 4, 2025 |
+| [Basic-Angular-App](https://github.com/0609Abhinav/Basic-Angular-App) | Basic Angular Application Having Core modules and functionality  | TypeScript | 1 | Oct 29, 2025 |
+| [Webapp](https://github.com/0609Abhinav/Webapp) | Web App having all crud operation along with forgot password ,pagiantion ,login, register and db using  my sql sequilizer  | JavaScript | 0 | Oct 24, 2025 |
+| [Task-Managment-ToDo-App-](https://github.com/0609Abhinav/Task-Managment-ToDo-App-) | — | JavaScript | 1 | Oct 16, 2025 |
+| [student-info-dashboard](https://github.com/0609Abhinav/student-info-dashboard) | — | JavaScript | 0 | Oct 15, 2025 |
+| [CRUD-APP](https://github.com/0609Abhinav/CRUD-APP) | Basic CRUD operation using sequilizer in mysql and nodejs+express js | JavaScript | 0 | Oct 6, 2025 |
+| [FocusFlow_SmartTodo](https://github.com/0609Abhinav/FocusFlow_SmartTodo) | AI-powered smart to-do list built with Django REST, Next.js, and TailwindCSS — featuring context-aware AI suggestions, priority scoring, and deadline recommendations. | Python | 0 | Aug 15, 2025 |
+| [Frontend_Project](https://github.com/0609Abhinav/Frontend_Project) | — | HTML | 0 | Aug 10, 2025 |
+| [Photographer-master](https://github.com/0609Abhinav/Photographer-master) | — | JavaScript | 0 | Jul 19, 2025 |
+| [Hybrid_CNN_PCA_Full_Package](https://github.com/0609Abhinav/Hybrid_CNN_PCA_Full_Package) | — | Python | 0 | Jul 14, 2025 |
+| [webhook-repo](https://github.com/0609Abhinav/webhook-repo) | — | Python | 0 | Jul 14, 2025 |
+| [action-repo](https://github.com/0609Abhinav/action-repo) |  Repository to trigger GitHub events | — | 0 | Jul 14, 2025 |
+| [Smart-Ex](https://github.com/0609Abhinav/Smart-Ex) | It's AI based proctored examination system developed using MERN Stack and yarious python libraries and AI/ML Technique | Python | 3 | Jun 23, 2025 |
+| [stfms](https://github.com/0609Abhinav/stfms) | — | PHP | 1 | Apr 14, 2025 |
+| [College_Website](https://github.com/0609Abhinav/College_Website) | This webiste is made from python using Django Framework | HTML | 2 | Aug 20, 2024 |
 
-*Private repositories are intentionally excluded from this public list.*
 <!-- PROJECTS-END -->
 
 ---
