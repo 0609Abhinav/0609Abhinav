@@ -1,20 +1,43 @@
-# Hi there, I'm Abhinav Tripathi 👋
+<!--
+  Abhinav Tripathi — GitHub Profile README
+  Full Stack Developer | MERN Stack | React · Node.js · Python · AWS
+  Repository data verified live from the GitHub API on Jul 11, 2026.
+  "All Repositories" section auto-refreshes weekly via GitHub Actions.
+-->
 
-![GitHub followers](https://img.shields.io/github/followers/0609Abhinav?label=Follow%20Me&style=social)
-![GitHub stars](https://img.shields.io/github/stars/0609Abhinav?label=My%20Stars&style=social)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=0609Abhinav.0609Abhinav)
-![Commits](https://img.shields.io/badge/Commits-27%2B-orange)
+<h1 align="center">Hi, I'm Abhinav Tripathi 👋</h1>
+<h3 align="center">Full Stack Developer | MERN Stack Developer | React · Node.js · Python (Django) · AWS</h3>
 
+<p align="center">
+  Abhinav Tripathi builds fast, scalable, full-stack web applications — from React/Node.js interfaces to Django and MySQL-backed systems, with growing work in AI-powered tools.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhinav-tripathi-770224253/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Abhinav Tripathi on LinkedIn"/></a>
+  <a href="https://portfolio-kappa-six-18.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Abhinav Tripathi Portfolio Website"/></a>
+  <a href="mailto:abhinavtripathi6sep@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Abhinav Tripathi"/></a>
+  <a href="https://www.instagram.com/_abhinavtripathi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Abhinav Tripathi Instagram"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/0609Abhinav?label=Follow%20Me&style=social" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/0609Abhinav?label=My%20Stars&style=social" alt="GitHub stars"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=0609Abhinav.0609Abhinav" alt="Profile visitors"/>
+  <img src="https://img.shields.io/badge/Commits-34%2B-orange" alt="Total commits"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/0609Abhinav&label=Public%20Repos&query=%24.public_repos&style=flat" alt="Public repos count"/>
+</p>
 
 ---
 
-## 🚀 About Me
+## 🚀 About Abhinav Tripathi
 
-I'm a passionate Frontend and Full Stack Developer with expertise in creating stunning web applications. I love bringing ideas to life in the browser and ensuring they work flawlessly across all devices.
+I'm **Abhinav Tripathi**, a Frontend and Full Stack Developer specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js), with hands-on experience in **Python/Django**, **MySQL**, **PHP**, and **AWS**. I build responsive, production-ready applications — from AI-powered tools to e-commerce platforms and admin dashboards.
 
-- 🌱 I’m currently learning **MERN Stack** and **AWS**
-- 💬 Ask me about **React, Node.js, MongoDB, Python (Django), MySQL, and Tailwind CSS**
-- 📫 How to reach me: [abhinavtripathi6sep@gmail.com](mailto:abhinavtripathi6sep@gmail.com)
+- 🌱 Currently deepening my skills in **AWS**, **Next.js**, and **AI-integrated applications**
+- 💬 Ask me about **React, Node.js, Express, MongoDB, MySQL, Python (Django), Angular, or Tailwind CSS**
+- 🧠 Recently building AI-powered tools — satellite image analysis, smart to-do apps, and automated report generation
+- 📫 Reach me at: **[abhinavtripathi6sep@gmail.com](mailto:abhinavtripathi6sep@gmail.com)**
+- 🔗 Connect on **[LinkedIn](https://www.linkedin.com/in/abhinav-tripathi-770224253/)** | View my **[Portfolio](https://portfolio-kappa-six-18.vercel.app/)**
 - ⚡ Fun fact: I enjoy playing chess and building side projects late at night
 
 ---
@@ -22,79 +45,108 @@ I'm a passionate Frontend and Full Stack Developer with expertise in creating st
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-  
-### 💻 Frontend (Expertise)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🌐 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 
-### 🧑‍💻 Full Stack
-![MERN Stack](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=api&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON-web-tokens&logoColor=white)
+**Backend & Databases**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Cloud, AI/ML & Tools**
+<br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge" alt="REST API"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON-web-tokens&logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 
 </div>
 
 ---
 
-## 🔥 My GitHub Stats
+## 🔥 GitHub Stats
 
 <div align="center">
 
-![Abhinav Tripathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=0609Abhinav&show_icons=true&theme=radical&count_private=true&hide=contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0609Abhinav&layout=compact&theme=radical&langs_count=6)](https://github.com/0609Abhinav/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=0609Abhinav&show_icons=true&theme=radical&count_private=true&hide=contribs" alt="Abhinav Tripathi's GitHub stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0609Abhinav&layout=compact&theme=radical&langs_count=8" alt="Abhinav Tripathi's Top Languages" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0609Abhinav&theme=radical" alt="Abhinav Tripathi's GitHub Streak" />
 
-> 📈 **32+ Total Commits** | 🔁 **20+ Commits in 2025**
-
-![GitHub commit streak](https://img.shields.io/badge/GitHub%20Streak-Tracking%20Daily%20Commits-orange?logo=github&style=for-the-badge)
-
+> 📈 **32+ Total Commits** &nbsp;|&nbsp; 🔁 **20+ Commits in 2025** &nbsp;|&nbsp; 📂 **23 Public Repositories**
 
 </div>
 
 ---
 
-## 🌟 My Projects
+## 🌟 Featured Projects
 
-### 🚀 [Crypto Tracker](https://github.com/0609Abhinav/Crypto-Tracker)  
-A real-time cryptocurrency price tracking app with elegant charts and alerts. Built using MERN Stack.
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🛰️ [**AI Satellite Image Analysis**](https://github.com/0609Abhinav/AI-Satellite-Image-Analysis-Prototype) | Detects buildings, roads, vegetation & land-use from aerial imagery; compares images across years to flag changes | Python, TypeScript, Computer Vision |
+| 🧠 [**Smart-Ex**](https://github.com/0609Abhinav/Smart-Ex) | AI-based proctored examination system with real-time monitoring | MERN, Python, Machine Learning |
+| ✅ [**FocusFlow — Smart Todo**](https://github.com/0609Abhinav/FocusFlow_SmartTodo) | AI-powered to-do app with context-aware suggestions & deadline recommendations | Django REST, Next.js, Tailwind CSS |
+| 📚 [**Online Book Store**](https://github.com/0609Abhinav/Online-Book-Store) | E-commerce platform with secure payments & authentication | Python, Django |
+| 💰 [**Crypto Tracker**](https://github.com/0609Abhinav/Crypto-Tracker) | Real-time cryptocurrency price tracker with live charts | JavaScript, MERN Stack |
+| 🎓 [**College Website**](https://github.com/0609Abhinav/College_Website) | Responsive institutional website with student portals | Python, Django, HTML |
+| 🗂 [**STFMS**](https://github.com/0609Abhinav/stfms) | Student/Teacher Faculty Management System | PHP, MySQL |
+| 🧩 [**Rubik's Cube Visualizer**](https://github.com/0609Abhinav/Rubik-s-Cube) | Interactive 3D Rubik's Cube using `getCubesvg()` | HTML, CSS, JavaScript |
+| 🌐 [**Spandan Website**](https://github.com/0609Abhinav/spandan-website) | Event/college fest website | JavaScript |
+| 💼 [**Portfolio**](https://github.com/0609Abhinav/Portfolio) | My personal developer portfolio | JavaScript |
 
-### 🎓 [College Website](https://github.com/0609Abhinav/college-website)  
-Fully responsive, dynamic website for educational institutions with student portals and course management.
+---
 
-### 📚 [Online Book Store](https://github.com/0609Abhinav/online-book-store)  
-An e-commerce platform for books with secure payment integration and user authentication.
+## 📂 All Repositories
 
-### 📰 [Sarkari Result Landing Page](https://github.com/0609Abhinav/sarkari-result)  
-Static landing page that provides quick access to government job listings and results.
+<!-- PROJECTS-START -->
+> Live data pulled from the GitHub API on Jul 11, 2026. This table refreshes automatically every week (and on every push) via [`.github/workflows/update-readme.yml`](.github/workflows/update-readme.yml) — new repos appear here with no manual editing.
 
-### 🧠 [Smart-Ex](https://github.com/0609Abhinav/Smart-Ex)  
-AI-based proctored examination system using the MERN stack, Python, and Machine Learning tools.
+| Repository | Description | Language | ⭐ Stars | Last Updated |
+|---|---|---|---|---|
+| [Online-Book-Store](https://github.com/0609Abhinav/Online-Book-Store) | E-commerce book store built with Django | CSS | 2 | Jul 10, 2026 |
+| [Rubik-s-Cube](https://github.com/0609Abhinav/Rubik-s-Cube) | Interactive 3D Rubik's Cube using `getCubesvg()` | JavaScript | 2 | Jul 10, 2026 |
+| [AI-Satellite-Image-Analysis-Prototype](https://github.com/0609Abhinav/AI-Satellite-Image-Analysis-Prototype) | AI-powered satellite/aerial image analysis — detects buildings, roads, vegetation & land-use, compares imagery across years | TypeScript | 1 | Jul 10, 2026 |
+| [Pixelith](https://github.com/0609Abhinav/Pixelith) | — | TypeScript | 2 | Jul 9, 2026 |
+| [Portfolio](https://github.com/0609Abhinav/Portfolio) | My personal developer portfolio | JavaScript | 2 | Jun 24, 2026 |
+| [Crypto-Tracker](https://github.com/0609Abhinav/Crypto-Tracker) | Real-time cryptocurrency price tracker | JavaScript | 2 | Jun 19, 2026 |
+| [spandan-website](https://github.com/0609Abhinav/spandan-website) | College fest / event website | JavaScript | 2 | Apr 11, 2026 |
+| [dynamic_dashboard_ang](https://github.com/0609Abhinav/dynamic_dashboard_ang) | Dynamic dashboard built with Angular | — | 1 | Nov 4, 2025 |
+| [Basic-Angular-App](https://github.com/0609Abhinav/Basic-Angular-App) | Basic Angular app with core modules & functionality | TypeScript | 1 | Oct 29, 2025 |
+| [Webapp](https://github.com/0609Abhinav/Webapp) | Full CRUD app with login, register, forgot password & pagination (MySQL + Sequelize) | JavaScript | 0 | Oct 24, 2025 |
+| [Task-Managment-ToDo-App-](https://github.com/0609Abhinav/Task-Managment-ToDo-App-) | Task management to-do app | JavaScript | 1 | Oct 16, 2025 |
+| [student-info-dashboard](https://github.com/0609Abhinav/student-info-dashboard) | Student information dashboard | JavaScript | 0 | Oct 15, 2025 |
+| [CRUD-APP](https://github.com/0609Abhinav/CRUD-APP) | Basic CRUD app using Sequelize, MySQL, Node.js & Express | JavaScript | 0 | Oct 6, 2025 |
+| [FocusFlow_SmartTodo](https://github.com/0609Abhinav/FocusFlow_SmartTodo) | AI-powered smart to-do list with context-aware suggestions & deadline recommendations | Python | 0 | Aug 15, 2025 |
+| [Frontend_Project](https://github.com/0609Abhinav/Frontend_Project) | Frontend practice project | HTML | 0 | Aug 10, 2025 |
+| [Photographer-master](https://github.com/0609Abhinav/Photographer-master) | Photographer portfolio template | JavaScript | 0 | Jul 19, 2025 |
+| [Hybrid_CNN_PCA_Full_Package](https://github.com/0609Abhinav/Hybrid_CNN_PCA_Full_Package) | Hybrid CNN + PCA machine learning package | Python | 0 | Jul 14, 2025 |
+| [webhook-repo](https://github.com/0609Abhinav/webhook-repo) | Webhook receiver/processor | Python | 0 | Jul 14, 2025 |
+| [action-repo](https://github.com/0609Abhinav/action-repo) | Repository used to trigger GitHub events | — | 0 | Jul 14, 2025 |
+| [Smart-Ex](https://github.com/0609Abhinav/Smart-Ex) | AI-based proctored examination system using MERN + Python + ML | Python | 3 | Jun 23, 2025 |
+| [stfms](https://github.com/0609Abhinav/stfms) | Student/Teacher Faculty Management System | PHP | 1 | Apr 14, 2025 |
+| [College_Website](https://github.com/0609Abhinav/College_Website) | Institutional website built with Django | HTML | 2 | Aug 20, 2024 |
 
-### 🧩 [Rubik’s Cube Visualizer](https://github.com/0609Abhinav/rubiks-cube-visualizer)  
-Interactive 3D Rubik's Cube built using HTML, CSS, and JavaScript with the `getCubesvg()` method.
-
-### 🌐 [Spandan Website](https://github.com/0609Abhinav/Spandan)  
-A beautifully designed website for events or college fests using modern web technologies.
-
-### 🗂 [STFMS (Student/Teacher Faculty Management System)](https://github.com/0609Abhinav/STFMS)  
-A PHP-based management system with database integration for seamless academic record keeping.
+*Private repositories are intentionally excluded from this public list.*
+<!-- PROJECTS-END -->
 
 ---
 
@@ -104,10 +156,11 @@ A PHP-based management system with database integration for seamless academic re
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-tripathi-770224253/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_abhinavtripathi/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://portfolio-kappa-six-18.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kappa-six-18.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavtripathi6sep@gmail.com)
 
 </div>
 
----
+<p align="center"><i>Abhinav Tripathi — Full Stack Developer (MERN Stack), building web & AI-powered applications. Search "Abhinav Tripathi GitHub" to find this profile.</i></p>
 
-*Made with ❤️ by Abhinav Tripathi*
+<p align="center">Made with ❤️ by <a href="https://github.com/0609Abhinav">Abhinav Tripathi</a></p>
