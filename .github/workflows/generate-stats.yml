@@ -1,0 +1,59 @@
+name: Generate GitHub Stats Images
+
+# Generates your Stats, Top Languages, and Streak cards as static SVG files
+# committed directly into this repo — no dependency on the public
+# github-readme-stats.vercel.app instance, which has been unreliable
+# (frequent 503 DEPLOYMENT_PAUSED / rate-limit errors) throughout 2026.
+on:
+  schedule:
+    - cron: "0 3 * * *" # Refresh once a day at 03:00 UTC
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/generate-stats.yml"
+  workflow_dispatch: # Lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=radical&count_private=true&hide=contribs
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=radical&langs_count=8
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak stats card
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&theme=radical&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh GitHub stats images [skip ci]"
+            git push
+          else
+            echo "No changes to stats images — nothing to commit."
+          fi
