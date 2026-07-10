@@ -86,11 +86,13 @@ I'm **Abhinav Tripathi**, a Frontend and Full Stack Developer specializing in th
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=0609Abhinav&show_icons=true&theme=radical&count_private=true&hide=contribs" alt="Abhinav Tripathi's GitHub stats" />
+> Generated locally via GitHub Actions (see [`.github/workflows/generate-stats.yml`](.github/workflows/generate-stats.yml)) — no dependency on the public `github-readme-stats.vercel.app` instance, which has been unreliable in 2026.
+
+<img src="./profile/stats.svg" alt="Abhinav Tripathi's GitHub stats" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0609Abhinav&layout=compact&theme=radical&langs_count=8" alt="Abhinav Tripathi's Top Languages" />
+<img src="./profile/top-langs.svg" alt="Abhinav Tripathi's Top Languages" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0609Abhinav&theme=radical" alt="Abhinav Tripathi's GitHub Streak" />
+<img src="./profile/streak.svg" alt="Abhinav Tripathi's GitHub Streak" />
 
 > 📈 **32+ Total Commits** &nbsp;|&nbsp; 🔁 **20+ Commits in 2025** &nbsp;|&nbsp; 📂 **23 Public Repositories**
 
