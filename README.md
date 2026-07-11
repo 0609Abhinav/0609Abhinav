@@ -120,10 +120,11 @@ I'm **Abhinav Tripathi**, a Frontend and Full Stack Developer specializing in th
 ## 📂 All Repositories
 
 <!-- PROJECTS-START -->
-> Auto-generated on 2026-07-10 — 22 public repositories.
+> Auto-generated on 2026-07-11 — 23 public repositories.
 
 | Repository | Description | Language | ⭐ Stars | Updated |
 |---|---|---|---|---|
+| [Book-Nest](https://github.com/0609Abhinav/Book-Nest) | A book upload and  downloadable website  | HTML | 0 | Jul 11, 2026 |
 | [Online-Book-Store](https://github.com/0609Abhinav/Online-Book-Store) | This webiste is made from python using Django Framework | CSS | 2 | Jul 10, 2026 |
 | [Rubik-s-Cube](https://github.com/0609Abhinav/Rubik-s-Cube) | Simple Rubik's Cube Application using Html,Css and Javascript using getCubesvg() method | JavaScript | 2 | Jul 10, 2026 |
 | [AI-Satellite-Image-Analysis-Prototype](https://github.com/0609Abhinav/AI-Satellite-Image-Analysis-Prototype) | AI-powered satellite and aerial image analysis prototype that detects buildings, roads, parking lots, vegetation, water, and land-use features using open-source computer vision models. Compares images from different years to identify changes, generates AI-based summaries, and provides a foundation for a future scalable SaaS platform. | TypeScript | 1 | Jul 10, 2026 |
