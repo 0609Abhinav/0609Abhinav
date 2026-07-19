@@ -120,14 +120,14 @@ I'm **Abhinav Tripathi**, a Frontend and Full Stack Developer specializing in th
 ## 📂 All Repositories
 
 <!-- PROJECTS-START -->
-> Auto-generated on 2026-07-12 — 23 public repositories.
+> Auto-generated on 2026-07-19 — 23 public repositories.
 
 | Repository | Description | Language | ⭐ Stars | Updated |
 |---|---|---|---|---|
+| [AI-Satellite-Image-Analysis-Prototype](https://github.com/0609Abhinav/AI-Satellite-Image-Analysis-Prototype) | AI-powered satellite and aerial image analysis prototype that detects buildings, roads, parking lots, vegetation, water, and land-use features using open-source computer vision models. Compares images from different years to identify changes, generates AI-based summaries, and provides a foundation for a future scalable SaaS platform. | Python | 1 | Jul 17, 2026 |
 | [Book-Nest](https://github.com/0609Abhinav/Book-Nest) | A book upload and  downloadable website  | HTML | 0 | Jul 11, 2026 |
 | [Online-Book-Store](https://github.com/0609Abhinav/Online-Book-Store) | This webiste is made from python using Django Framework | CSS | 2 | Jul 10, 2026 |
 | [Rubik-s-Cube](https://github.com/0609Abhinav/Rubik-s-Cube) | Simple Rubik's Cube Application using Html,Css and Javascript using getCubesvg() method | JavaScript | 2 | Jul 10, 2026 |
-| [AI-Satellite-Image-Analysis-Prototype](https://github.com/0609Abhinav/AI-Satellite-Image-Analysis-Prototype) | AI-powered satellite and aerial image analysis prototype that detects buildings, roads, parking lots, vegetation, water, and land-use features using open-source computer vision models. Compares images from different years to identify changes, generates AI-based summaries, and provides a foundation for a future scalable SaaS platform. | TypeScript | 1 | Jul 10, 2026 |
 | [Pixelith](https://github.com/0609Abhinav/Pixelith) | — | TypeScript | 2 | Jul 9, 2026 |
 | [Portfolio](https://github.com/0609Abhinav/Portfolio) | About Myself | JavaScript | 2 | Jun 24, 2026 |
 | [Crypto-Tracker](https://github.com/0609Abhinav/Crypto-Tracker) | Crypto Currency Tracking Website  | JavaScript | 2 | Jun 19, 2026 |
