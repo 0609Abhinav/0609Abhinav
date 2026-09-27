@@ -120,7 +120,7 @@ I'm **Abhinav Tripathi**, a Frontend and Full Stack Developer specializing in th
 ## 📂 All Repositories
 
 <!-- PROJECTS-START -->
-> Auto-generated on 2026-09-20 — 24 public repositories.
+> Auto-generated on 2026-09-27 — 24 public repositories.
 
 | Repository | Description | Language | ⭐ Stars | Updated |
 |---|---|---|---|---|
@@ -145,7 +145,7 @@ I'm **Abhinav Tripathi**, a Frontend and Full Stack Developer specializing in th
 | [Hybrid_CNN_PCA_Full_Package](https://github.com/0609Abhinav/Hybrid_CNN_PCA_Full_Package) | — | Python | 0 | Jul 14, 2025 |
 | [webhook-repo](https://github.com/0609Abhinav/webhook-repo) | — | Python | 0 | Jul 14, 2025 |
 | [action-repo](https://github.com/0609Abhinav/action-repo) |  Repository to trigger GitHub events | — | 0 | Jul 14, 2025 |
-| [Smart-Ex](https://github.com/0609Abhinav/Smart-Ex) | It's AI based proctored examination system developed using MERN Stack and yarious python libraries and AI/ML Technique | Python | 3 | Jun 23, 2025 |
+| [Smart-Ex](https://github.com/0609Abhinav/Smart-Ex) | It's AI based proctored examination system developed using MERN Stack and yarious python libraries and AI/ML Technique | Python | 2 | Jun 23, 2025 |
 | [stfms](https://github.com/0609Abhinav/stfms) | — | PHP | 1 | Apr 14, 2025 |
 | [College_Website](https://github.com/0609Abhinav/College_Website) | This webiste is made from python using Django Framework | HTML | 2 | Aug 20, 2024 |
 
