@@ -120,10 +120,11 @@ I'm **Abhinav Tripathi**, a Frontend and Full Stack Developer specializing in th
 ## 📂 All Repositories
 
 <!-- PROJECTS-START -->
-> Auto-generated on 2026-10-11 — 24 public repositories.
+> Auto-generated on 2026-10-18 — 25 public repositories.
 
 | Repository | Description | Language | ⭐ Stars | Updated |
 |---|---|---|---|---|
+| [Rhymes](https://github.com/0609Abhinav/Rhymes) | — | Python | 0 | Oct 14, 2026 |
 | [Portfolio](https://github.com/0609Abhinav/Portfolio) | About Myself | JavaScript | 2 | Aug 15, 2026 |
 | [GOLDEXCHANGER](https://github.com/0609Abhinav/GOLDEXCHANGER) | — | JavaScript | 0 | Aug 13, 2026 |
 | [Book-Nest](https://github.com/0609Abhinav/Book-Nest) | A book upload and  downloadable website  | HTML | 1 | Aug 8, 2026 |
